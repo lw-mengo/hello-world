@@ -1,2 +1,3 @@
 # hello-world
-用来熟悉github的操作流程。
+第一步：建立仓库
+第二部：建立b'rach
